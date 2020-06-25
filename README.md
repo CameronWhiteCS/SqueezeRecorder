@@ -8,7 +8,7 @@ Becuase SqueezeRecorder does not directly interact with the game client (no inje
 
 # Command Line Arguments
 
-*To make life easier for users less familiar with command line programs, I have included example .bat and .sh files. Just adjust the settings within those files to yuor liking*
+*To make life easier for users less familiar with command line programs, I have included example .bat and .sh files. Just adjust the settings within those files to your liking*
 
 SqueezeRecorder can be used both as a command line program or using its GUI. All arguments are key-value pairs are are provided to the program using the format ```key=value```. The following command line arguments are available (WARNING: neither keys nor values can contain any spaces! This includes file names):
 
