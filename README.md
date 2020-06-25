@@ -29,7 +29,7 @@ If the GUI is enabled, all other command line arguments **will be ignored**.
 
 # Key bindings
 
-To stop recording, press the escape key. To pause or resume while recording, press num lock. These keys can be pressed from anywhere and the command prompt/terminal does not need to be visible. 
+To stop and save a recording, press the escape key. **WARNING: Longer recordings can take a minute or two to save. Do not prematurely close the program or you will lose the recording.** To pause or resume while recording, press num lock. These keys can be pressed from anywhere and the command prompt/terminal does not need to be visible. 
 
 To stop playing a recording, use ALT + TAB to switch to the command prompt running SqueezeRecorder and press CTRL + C. 
 
