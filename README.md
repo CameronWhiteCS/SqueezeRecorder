@@ -1,6 +1,6 @@
 # SqueezeRecorder
 
-SqueezeRecorder is a free and open source macro recorder designed specifically for Old School Runescape. It allows you to record your mouse movements, mouse clicks, and some key presses and then play them back on a loop. Recordings can even be shared with your friends thanks to SqueezeRecorder's relative coordinate system. SqueezeRecorder works on all operating systems and all OSRS clients.  
+SqueezeRecorder is a free and open source macro recorder designed specifically for Old School Runescape. It allows you to record your mouse movements, mouse clicks (including shift clicking), and some key presses and then play them back on a loop. Recordings can even be shared with your friends thanks to SqueezeRecorder's relative coordinate system. SqueezeRecorder works on all operating systems and all OSRS clients.  
 
 # Benefits
 
